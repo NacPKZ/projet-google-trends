@@ -1,580 +1,4 @@
 ﻿date,valeur,mot_cle
-2020-01-01,14,intelligence artificielle
-2020-02-01,14,intelligence artificielle
-2020-03-01,12,intelligence artificielle
-2020-04-01,13,intelligence artificielle
-2020-05-01,11,intelligence artificielle
-2020-06-01,9,intelligence artificielle
-2020-07-01,7,intelligence artificielle
-2020-08-01,7,intelligence artificielle
-2020-09-01,11,intelligence artificielle
-2020-10-01,12,intelligence artificielle
-2020-11-01,14,intelligence artificielle
-2020-12-01,12,intelligence artificielle
-2021-01-01,14,intelligence artificielle
-2021-02-01,13,intelligence artificielle
-2021-03-01,14,intelligence artificielle
-2021-04-01,12,intelligence artificielle
-2021-05-01,13,intelligence artificielle
-2021-06-01,10,intelligence artificielle
-2021-07-01,6,intelligence artificielle
-2021-08-01,7,intelligence artificielle
-2021-09-01,10,intelligence artificielle
-2021-10-01,13,intelligence artificielle
-2021-11-01,14,intelligence artificielle
-2021-12-01,13,intelligence artificielle
-2022-01-01,17,intelligence artificielle
-2022-02-01,15,intelligence artificielle
-2022-03-01,21,intelligence artificielle
-2022-04-01,17,intelligence artificielle
-2022-05-01,14,intelligence artificielle
-2022-06-01,13,intelligence artificielle
-2022-07-01,9,intelligence artificielle
-2022-08-01,9,intelligence artificielle
-2022-09-01,13,intelligence artificielle
-2022-10-01,14,intelligence artificielle
-2022-11-01,18,intelligence artificielle
-2022-12-01,23,intelligence artificielle
-2023-01-01,45,intelligence artificielle
-2023-02-01,37,intelligence artificielle
-2023-03-01,43,intelligence artificielle
-2023-04-01,55,intelligence artificielle
-2023-05-01,50,intelligence artificielle
-2023-06-01,39,intelligence artificielle
-2023-07-01,24,intelligence artificielle
-2023-08-01,24,intelligence artificielle
-2023-09-01,34,intelligence artificielle
-2023-10-01,36,intelligence artificielle
-2023-11-01,41,intelligence artificielle
-2023-12-01,39,intelligence artificielle
-2024-01-01,41,intelligence artificielle
-2024-02-01,39,intelligence artificielle
-2024-03-01,44,intelligence artificielle
-2024-04-01,37,intelligence artificielle
-2024-05-01,37,intelligence artificielle
-2024-06-01,38,intelligence artificielle
-2024-07-01,27,intelligence artificielle
-2024-08-01,23,intelligence artificielle
-2024-09-01,31,intelligence artificielle
-2024-10-01,39,intelligence artificielle
-2024-11-01,39,intelligence artificielle
-2024-12-01,43,intelligence artificielle
-2025-01-01,58,intelligence artificielle
-2025-02-01,100,intelligence artificielle
-2025-03-01,74,intelligence artificielle
-2025-04-01,62,intelligence artificielle
-2025-05-01,35,intelligence artificielle
-2025-06-01,36,intelligence artificielle
-2025-07-01,28,intelligence artificielle
-2025-08-01,27,intelligence artificielle
-2025-09-01,32,intelligence artificielle
-2025-10-01,35,intelligence artificielle
-2025-11-01,34,intelligence artificielle
-2025-12-01,33,intelligence artificielle
-2020-01-01,4,ia
-2020-02-01,4,ia
-2020-03-01,6,ia
-2020-04-01,5,ia
-2020-05-01,5,ia
-2020-06-01,5,ia
-2020-07-01,3,ia
-2020-08-01,3,ia
-2020-09-01,5,ia
-2020-10-01,4,ia
-2020-11-01,4,ia
-2020-12-01,4,ia
-2021-01-01,4,ia
-2021-02-01,4,ia
-2021-03-01,4,ia
-2021-04-01,4,ia
-2021-05-01,4,ia
-2021-06-01,4,ia
-2021-07-01,3,ia
-2021-08-01,3,ia
-2021-09-01,4,ia
-2021-10-01,4,ia
-2021-11-01,4,ia
-2021-12-01,4,ia
-2022-01-01,5,ia
-2022-02-01,5,ia
-2022-03-01,5,ia
-2022-04-01,5,ia
-2022-05-01,5,ia
-2022-06-01,6,ia
-2022-07-01,4,ia
-2022-08-01,4,ia
-2022-09-01,6,ia
-2022-10-01,6,ia
-2022-11-01,8,ia
-2022-12-01,12,ia
-2023-01-01,16,ia
-2023-02-01,15,ia
-2023-03-01,18,ia
-2023-04-01,21,ia
-2023-05-01,24,ia
-2023-06-01,21,ia
-2023-07-01,18,ia
-2023-08-01,19,ia
-2023-09-01,24,ia
-2023-10-01,30,ia
-2023-11-01,32,ia
-2023-12-01,36,ia
-2024-01-01,34,ia
-2024-02-01,38,ia
-2024-03-01,42,ia
-2024-04-01,42,ia
-2024-05-01,42,ia
-2024-06-01,41,ia
-2024-07-01,34,ia
-2024-08-01,35,ia
-2024-09-01,50,ia
-2024-10-01,56,ia
-2024-11-01,62,ia
-2024-12-01,63,ia
-2025-01-01,74,ia
-2025-02-01,100,ia
-2025-03-01,84,ia
-2025-04-01,93,ia
-2025-05-01,81,ia
-2025-06-01,75,ia
-2025-07-01,62,ia
-2025-08-01,59,ia
-2025-09-01,76,ia
-2025-10-01,86,ia
-2025-11-01,92,ia
-2025-12-01,90,ia
-2020-01-01,0,chatgpt
-2020-02-01,0,chatgpt
-2020-03-01,0,chatgpt
-2020-04-01,0,chatgpt
-2020-05-01,0,chatgpt
-2020-06-01,0,chatgpt
-2020-07-01,0,chatgpt
-2020-08-01,0,chatgpt
-2020-09-01,0,chatgpt
-2020-10-01,0,chatgpt
-2020-11-01,0,chatgpt
-2020-12-01,0,chatgpt
-2021-01-01,0,chatgpt
-2021-02-01,0,chatgpt
-2021-03-01,0,chatgpt
-2021-04-01,0,chatgpt
-2021-05-01,0,chatgpt
-2021-06-01,0,chatgpt
-2021-07-01,0,chatgpt
-2021-08-01,0,chatgpt
-2021-09-01,0,chatgpt
-2021-10-01,0,chatgpt
-2021-11-01,0,chatgpt
-2021-12-01,0,chatgpt
-2022-01-01,0,chatgpt
-2022-02-01,0,chatgpt
-2022-03-01,0,chatgpt
-2022-04-01,0,chatgpt
-2022-05-01,0,chatgpt
-2022-06-01,0,chatgpt
-2022-07-01,0,chatgpt
-2022-08-01,0,chatgpt
-2022-09-01,0,chatgpt
-2022-10-01,0,chatgpt
-2022-11-01,0,chatgpt
-2022-12-01,5,chatgpt
-2023-01-01,18,chatgpt
-2023-02-01,18,chatgpt
-2023-03-01,21,chatgpt
-2023-04-01,24,chatgpt
-2023-05-01,22,chatgpt
-2023-06-01,18,chatgpt
-2023-07-01,14,chatgpt
-2023-08-01,12,chatgpt
-2023-09-01,19,chatgpt
-2023-10-01,23,chatgpt
-2023-11-01,23,chatgpt
-2023-12-01,21,chatgpt
-2024-01-01,21,chatgpt
-2024-02-01,22,chatgpt
-2024-03-01,23,chatgpt
-2024-04-01,21,chatgpt
-2024-05-01,21,chatgpt
-2024-06-01,18,chatgpt
-2024-07-01,13,chatgpt
-2024-08-01,13,chatgpt
-2024-09-01,26,chatgpt
-2024-10-01,37,chatgpt
-2024-11-01,49,chatgpt
-2024-12-01,46,chatgpt
-2025-01-01,49,chatgpt
-2025-02-01,47,chatgpt
-2025-03-01,51,chatgpt
-2025-04-01,58,chatgpt
-2025-05-01,63,chatgpt
-2025-06-01,76,chatgpt
-2025-07-01,67,chatgpt
-2025-08-01,55,chatgpt
-2025-09-01,83,chatgpt
-2025-10-01,84,chatgpt
-2025-11-01,100,chatgpt
-2025-12-01,93,chatgpt
-2020-01-01,0,openai
-2020-02-01,0,openai
-2020-03-01,0,openai
-2020-04-01,0,openai
-2020-05-01,0,openai
-2020-06-01,0,openai
-2020-07-01,0,openai
-2020-08-01,0,openai
-2020-09-01,0,openai
-2020-10-01,0,openai
-2020-11-01,0,openai
-2020-12-01,0,openai
-2021-01-01,0,openai
-2021-02-01,0,openai
-2021-03-01,0,openai
-2021-04-01,0,openai
-2021-05-01,0,openai
-2021-06-01,0,openai
-2021-07-01,0,openai
-2021-08-01,0,openai
-2021-09-01,0,openai
-2021-10-01,0,openai
-2021-11-01,0,openai
-2021-12-01,0,openai
-2022-01-01,1,openai
-2022-02-01,0,openai
-2022-03-01,0,openai
-2022-04-01,1,openai
-2022-05-01,1,openai
-2022-06-01,1,openai
-2022-07-01,1,openai
-2022-08-01,1,openai
-2022-09-01,1,openai
-2022-10-01,2,openai
-2022-11-01,2,openai
-2022-12-01,29,openai
-2023-01-01,55,openai
-2023-02-01,37,openai
-2023-03-01,40,openai
-2023-04-01,38,openai
-2023-05-01,34,openai
-2023-06-01,24,openai
-2023-07-01,16,openai
-2023-08-01,13,openai
-2023-09-01,17,openai
-2023-10-01,18,openai
-2023-11-01,29,openai
-2023-12-01,18,openai
-2024-01-01,19,openai
-2024-02-01,29,openai
-2024-03-01,20,openai
-2024-04-01,17,openai
-2024-05-01,20,openai
-2024-06-01,22,openai
-2024-07-01,16,openai
-2024-08-01,15,openai
-2024-09-01,22,openai
-2024-10-01,24,openai
-2024-11-01,22,openai
-2024-12-01,24,openai
-2025-01-01,29,openai
-2025-02-01,31,openai
-2025-03-01,27,openai
-2025-04-01,31,openai
-2025-05-01,26,openai
-2025-06-01,29,openai
-2025-07-01,23,openai
-2025-08-01,26,openai
-2025-09-01,28,openai
-2025-10-01,37,openai
-2025-11-01,100,openai
-2025-12-01,84,openai
-2020-01-01,34,machine learning
-2020-02-01,36,machine learning
-2020-03-01,31,machine learning
-2020-04-01,35,machine learning
-2020-05-01,33,machine learning
-2020-06-01,33,machine learning
-2020-07-01,29,machine learning
-2020-08-01,26,machine learning
-2020-09-01,34,machine learning
-2020-10-01,31,machine learning
-2020-11-01,30,machine learning
-2020-12-01,28,machine learning
-2021-01-01,33,machine learning
-2021-02-01,33,machine learning
-2021-03-01,35,machine learning
-2021-04-01,31,machine learning
-2021-05-01,28,machine learning
-2021-06-01,27,machine learning
-2021-07-01,22,machine learning
-2021-08-01,19,machine learning
-2021-09-01,29,machine learning
-2021-10-01,30,machine learning
-2021-11-01,35,machine learning
-2021-12-01,30,machine learning
-2022-01-01,39,machine learning
-2022-02-01,45,machine learning
-2022-03-01,52,machine learning
-2022-04-01,44,machine learning
-2022-05-01,44,machine learning
-2022-06-01,42,machine learning
-2022-07-01,32,machine learning
-2022-08-01,29,machine learning
-2022-09-01,37,machine learning
-2022-10-01,42,machine learning
-2022-11-01,43,machine learning
-2022-12-01,35,machine learning
-2023-01-01,44,machine learning
-2023-02-01,42,machine learning
-2023-03-01,42,machine learning
-2023-04-01,40,machine learning
-2023-05-01,38,machine learning
-2023-06-01,37,machine learning
-2023-07-01,31,machine learning
-2023-08-01,29,machine learning
-2023-09-01,36,machine learning
-2023-10-01,39,machine learning
-2023-11-01,41,machine learning
-2023-12-01,34,machine learning
-2024-01-01,39,machine learning
-2024-02-01,49,machine learning
-2024-03-01,43,machine learning
-2024-04-01,41,machine learning
-2024-05-01,37,machine learning
-2024-06-01,40,machine learning
-2024-07-01,35,machine learning
-2024-08-01,27,machine learning
-2024-09-01,37,machine learning
-2024-10-01,44,machine learning
-2024-11-01,40,machine learning
-2024-12-01,35,machine learning
-2025-01-01,42,machine learning
-2025-02-01,45,machine learning
-2025-03-01,42,machine learning
-2025-04-01,36,machine learning
-2025-05-01,32,machine learning
-2025-06-01,43,machine learning
-2025-07-01,35,machine learning
-2025-08-01,29,machine learning
-2025-09-01,34,machine learning
-2025-10-01,37,machine learning
-2025-11-01,96,machine learning
-2025-12-01,100,machine learning
-2020-01-01,37,deep learning
-2020-02-01,39,deep learning
-2020-03-01,33,deep learning
-2020-04-01,34,deep learning
-2020-05-01,33,deep learning
-2020-06-01,38,deep learning
-2020-07-01,34,deep learning
-2020-08-01,28,deep learning
-2020-09-01,34,deep learning
-2020-10-01,30,deep learning
-2020-11-01,32,deep learning
-2020-12-01,29,deep learning
-2021-01-01,31,deep learning
-2021-02-01,33,deep learning
-2021-03-01,34,deep learning
-2021-04-01,30,deep learning
-2021-05-01,31,deep learning
-2021-06-01,27,deep learning
-2021-07-01,22,deep learning
-2021-08-01,21,deep learning
-2021-09-01,29,deep learning
-2021-10-01,32,deep learning
-2021-11-01,35,deep learning
-2021-12-01,30,deep learning
-2022-01-01,41,deep learning
-2022-02-01,46,deep learning
-2022-03-01,49,deep learning
-2022-04-01,44,deep learning
-2022-05-01,47,deep learning
-2022-06-01,41,deep learning
-2022-07-01,33,deep learning
-2022-08-01,28,deep learning
-2022-09-01,34,deep learning
-2022-10-01,39,deep learning
-2022-11-01,40,deep learning
-2022-12-01,34,deep learning
-2023-01-01,45,deep learning
-2023-02-01,42,deep learning
-2023-03-01,44,deep learning
-2023-04-01,41,deep learning
-2023-05-01,39,deep learning
-2023-06-01,34,deep learning
-2023-07-01,32,deep learning
-2023-08-01,27,deep learning
-2023-09-01,33,deep learning
-2023-10-01,40,deep learning
-2023-11-01,40,deep learning
-2023-12-01,36,deep learning
-2024-01-01,41,deep learning
-2024-02-01,45,deep learning
-2024-03-01,47,deep learning
-2024-04-01,41,deep learning
-2024-05-01,38,deep learning
-2024-06-01,38,deep learning
-2024-07-01,33,deep learning
-2024-08-01,27,deep learning
-2024-09-01,33,deep learning
-2024-10-01,39,deep learning
-2024-11-01,38,deep learning
-2024-12-01,32,deep learning
-2025-01-01,38,deep learning
-2025-02-01,45,deep learning
-2025-03-01,41,deep learning
-2025-04-01,37,deep learning
-2025-05-01,32,deep learning
-2025-06-01,39,deep learning
-2025-07-01,32,deep learning
-2025-08-01,26,deep learning
-2025-09-01,32,deep learning
-2025-10-01,38,deep learning
-2025-11-01,90,deep learning
-2025-12-01,100,deep learning
-2020-01-01,28,data science
-2020-02-01,27,data science
-2020-03-01,23,data science
-2020-04-01,26,data science
-2020-05-01,23,data science
-2020-06-01,29,data science
-2020-07-01,25,data science
-2020-08-01,23,data science
-2020-09-01,31,data science
-2020-10-01,26,data science
-2020-11-01,22,data science
-2020-12-01,22,data science
-2021-01-01,26,data science
-2021-02-01,27,data science
-2021-03-01,24,data science
-2021-04-01,23,data science
-2021-05-01,23,data science
-2021-06-01,23,data science
-2021-07-01,21,data science
-2021-08-01,19,data science
-2021-09-01,27,data science
-2021-10-01,26,data science
-2021-11-01,25,data science
-2021-12-01,25,data science
-2022-01-01,30,data science
-2022-02-01,33,data science
-2022-03-01,37,data science
-2022-04-01,32,data science
-2022-05-01,31,data science
-2022-06-01,33,data science
-2022-07-01,24,data science
-2022-08-01,24,data science
-2022-09-01,30,data science
-2022-10-01,31,data science
-2022-11-01,33,data science
-2022-12-01,25,data science
-2023-01-01,32,data science
-2023-02-01,32,data science
-2023-03-01,30,data science
-2023-04-01,30,data science
-2023-05-01,26,data science
-2023-06-01,28,data science
-2023-07-01,24,data science
-2023-08-01,22,data science
-2023-09-01,29,data science
-2023-10-01,30,data science
-2023-11-01,31,data science
-2023-12-01,24,data science
-2024-01-01,30,data science
-2024-02-01,32,data science
-2024-03-01,34,data science
-2024-04-01,26,data science
-2024-05-01,27,data science
-2024-06-01,29,data science
-2024-07-01,23,data science
-2024-08-01,22,data science
-2024-09-01,28,data science
-2024-10-01,33,data science
-2024-11-01,32,data science
-2024-12-01,25,data science
-2025-01-01,30,data science
-2025-02-01,31,data science
-2025-03-01,33,data science
-2025-04-01,28,data science
-2025-05-01,25,data science
-2025-06-01,29,data science
-2025-07-01,24,data science
-2025-08-01,23,data science
-2025-09-01,27,data science
-2025-10-01,27,data science
-2025-11-01,90,data science
-2025-12-01,100,data science
-2020-01-01,89,big data
-2020-02-01,95,big data
-2020-03-01,80,big data
-2020-04-01,75,big data
-2020-05-01,85,big data
-2020-06-01,75,big data
-2020-07-01,62,big data
-2020-08-01,49,big data
-2020-09-01,100,big data
-2020-10-01,79,big data
-2020-11-01,77,big data
-2020-12-01,64,big data
-2021-01-01,67,big data
-2021-02-01,69,big data
-2021-03-01,73,big data
-2021-04-01,63,big data
-2021-05-01,61,big data
-2021-06-01,55,big data
-2021-07-01,38,big data
-2021-08-01,33,big data
-2021-09-01,73,big data
-2021-10-01,66,big data
-2021-11-01,69,big data
-2021-12-01,54,big data
-2022-01-01,73,big data
-2022-02-01,78,big data
-2022-03-01,87,big data
-2022-04-01,76,big data
-2022-05-01,76,big data
-2022-06-01,63,big data
-2022-07-01,41,big data
-2022-08-01,40,big data
-2022-09-01,96,big data
-2022-10-01,72,big data
-2022-11-01,74,big data
-2022-12-01,54,big data
-2023-01-01,67,big data
-2023-02-01,59,big data
-2023-03-01,62,big data
-2023-04-01,59,big data
-2023-05-01,48,big data
-2023-06-01,43,big data
-2023-07-01,34,big data
-2023-08-01,34,big data
-2023-09-01,78,big data
-2023-10-01,56,big data
-2023-11-01,51,big data
-2023-12-01,43,big data
-2024-01-01,45,big data
-2024-02-01,52,big data
-2024-03-01,49,big data
-2024-04-01,46,big data
-2024-05-01,47,big data
-2024-06-01,45,big data
-2024-07-01,33,big data
-2024-08-01,29,big data
-2024-09-01,54,big data
-2024-10-01,73,big data
-2024-11-01,42,big data
-2024-12-01,40,big data
-2025-01-01,46,big data
-2025-02-01,48,big data
-2025-03-01,41,big data
-2025-04-01,35,big data
-2025-05-01,37,big data
-2025-06-01,40,big data
-2025-07-01,32,big data
-2025-08-01,28,big data
-2025-09-01,55,big data
-2025-10-01,46,big data
-2025-11-01,86,big data
-2025-12-01,99,big data
 2020-01-01,85,algorithme
 2020-02-01,83,algorithme
 2020-03-01,90,algorithme
@@ -647,78 +71,6 @@
 2025-10-01,49,algorithme
 2025-11-01,60,algorithme
 2025-12-01,49,algorithme
-2020-01-01,62,robot
-2020-02-01,52,robot
-2020-03-01,53,robot
-2020-04-01,92,robot
-2020-05-01,95,robot
-2020-06-01,71,robot
-2020-07-01,57,robot
-2020-08-01,53,robot
-2020-09-01,54,robot
-2020-10-01,68,robot
-2020-11-01,97,robot
-2020-12-01,97,robot
-2021-01-01,75,robot
-2021-02-01,73,robot
-2021-03-01,74,robot
-2021-04-01,71,robot
-2021-05-01,74,robot
-2021-06-01,62,robot
-2021-07-01,55,robot
-2021-08-01,57,robot
-2021-09-01,58,robot
-2021-10-01,61,robot
-2021-11-01,84,robot
-2021-12-01,76,robot
-2022-01-01,73,robot
-2022-02-01,59,robot
-2022-03-01,65,robot
-2022-04-01,66,robot
-2022-05-01,71,robot
-2022-06-01,59,robot
-2022-07-01,56,robot
-2022-08-01,52,robot
-2022-09-01,49,robot
-2022-10-01,61,robot
-2022-11-01,77,robot
-2022-12-01,65,robot
-2023-01-01,62,robot
-2023-02-01,52,robot
-2023-03-01,58,robot
-2023-04-01,74,robot
-2023-05-01,78,robot
-2023-06-01,60,robot
-2023-07-01,56,robot
-2023-08-01,52,robot
-2023-09-01,51,robot
-2023-10-01,52,robot
-2023-11-01,74,robot
-2023-12-01,71,robot
-2024-01-01,59,robot
-2024-02-01,54,robot
-2024-03-01,61,robot
-2024-04-01,67,robot
-2024-05-01,69,robot
-2024-06-01,62,robot
-2024-07-01,61,robot
-2024-08-01,56,robot
-2024-09-01,55,robot
-2024-10-01,87,robot
-2024-11-01,88,robot
-2024-12-01,78,robot
-2025-01-01,64,robot
-2025-02-01,62,robot
-2025-03-01,73,robot
-2025-04-01,86,robot
-2025-05-01,88,robot
-2025-06-01,75,robot
-2025-07-01,63,robot
-2025-08-01,66,robot
-2025-09-01,61,robot
-2025-10-01,63,robot
-2025-11-01,100,robot
-2025-12-01,82,robot
 2020-01-01,45,automatisation
 2020-02-01,40,automatisation
 2020-03-01,37,automatisation
@@ -791,366 +143,78 @@
 2025-10-01,80,automatisation
 2025-11-01,89,automatisation
 2025-12-01,100,automatisation
-2020-01-01,8,cybersécurité
-2020-02-01,7,cybersécurité
-2020-03-01,6,cybersécurité
-2020-04-01,5,cybersécurité
-2020-05-01,5,cybersécurité
-2020-06-01,6,cybersécurité
-2020-07-01,6,cybersécurité
-2020-08-01,5,cybersécurité
-2020-09-01,7,cybersécurité
-2020-10-01,8,cybersécurité
-2020-11-01,8,cybersécurité
-2020-12-01,7,cybersécurité
-2021-01-01,8,cybersécurité
-2021-02-01,10,cybersécurité
-2021-03-01,10,cybersécurité
-2021-04-01,8,cybersécurité
-2021-05-01,8,cybersécurité
-2021-06-01,9,cybersécurité
-2021-07-01,9,cybersécurité
-2021-08-01,7,cybersécurité
-2021-09-01,11,cybersécurité
-2021-10-01,10,cybersécurité
-2021-11-01,11,cybersécurité
-2021-12-01,10,cybersécurité
-2022-01-01,14,cybersécurité
-2022-02-01,15,cybersécurité
-2022-03-01,18,cybersécurité
-2022-04-01,14,cybersécurité
-2022-05-01,15,cybersécurité
-2022-06-01,15,cybersécurité
-2022-07-01,11,cybersécurité
-2022-08-01,10,cybersécurité
-2022-09-01,15,cybersécurité
-2022-10-01,17,cybersécurité
-2022-11-01,16,cybersécurité
-2022-12-01,13,cybersécurité
-2023-01-01,18,cybersécurité
-2023-02-01,18,cybersécurité
-2023-03-01,21,cybersécurité
-2023-04-01,18,cybersécurité
-2023-05-01,17,cybersécurité
-2023-06-01,19,cybersécurité
-2023-07-01,15,cybersécurité
-2023-08-01,13,cybersécurité
-2023-09-01,20,cybersécurité
-2023-10-01,22,cybersécurité
-2023-11-01,21,cybersécurité
-2023-12-01,18,cybersécurité
-2024-01-01,21,cybersécurité
-2024-02-01,25,cybersécurité
-2024-03-01,24,cybersécurité
-2024-04-01,22,cybersécurité
-2024-05-01,21,cybersécurité
-2024-06-01,21,cybersécurité
-2024-07-01,17,cybersécurité
-2024-08-01,14,cybersécurité
-2024-09-01,25,cybersécurité
-2024-10-01,24,cybersécurité
-2024-11-01,21,cybersécurité
-2024-12-01,18,cybersécurité
-2025-01-01,23,cybersécurité
-2025-02-01,100,cybersécurité
-2025-03-01,93,cybersécurité
-2025-04-01,85,cybersécurité
-2025-05-01,19,cybersécurité
-2025-06-01,21,cybersécurité
-2025-07-01,17,cybersécurité
-2025-08-01,13,cybersécurité
-2025-09-01,22,cybersécurité
-2025-10-01,21,cybersécurité
-2025-11-01,21,cybersécurité
-2025-12-01,19,cybersécurité
-2020-01-01,32,cloud computing
-2020-02-01,30,cloud computing
-2020-03-01,29,cloud computing
-2020-04-01,29,cloud computing
-2020-05-01,27,cloud computing
-2020-06-01,24,cloud computing
-2020-07-01,19,cloud computing
-2020-08-01,19,cloud computing
-2020-09-01,28,cloud computing
-2020-10-01,27,cloud computing
-2020-11-01,31,cloud computing
-2020-12-01,26,cloud computing
-2021-01-01,29,cloud computing
-2021-02-01,32,cloud computing
-2021-03-01,33,cloud computing
-2021-04-01,24,cloud computing
-2021-05-01,23,cloud computing
-2021-06-01,22,cloud computing
-2021-07-01,19,cloud computing
-2021-08-01,19,cloud computing
-2021-09-01,26,cloud computing
-2021-10-01,25,cloud computing
-2021-11-01,30,cloud computing
-2021-12-01,27,cloud computing
-2022-01-01,33,cloud computing
-2022-02-01,34,cloud computing
-2022-03-01,36,cloud computing
-2022-04-01,32,cloud computing
-2022-05-01,32,cloud computing
-2022-06-01,24,cloud computing
-2022-07-01,22,cloud computing
-2022-08-01,17,cloud computing
-2022-09-01,30,cloud computing
-2022-10-01,30,cloud computing
-2022-11-01,33,cloud computing
-2022-12-01,24,cloud computing
-2023-01-01,36,cloud computing
-2023-02-01,26,cloud computing
-2023-03-01,34,cloud computing
-2023-04-01,27,cloud computing
-2023-05-01,28,cloud computing
-2023-06-01,26,cloud computing
-2023-07-01,22,cloud computing
-2023-08-01,21,cloud computing
-2023-09-01,28,cloud computing
-2023-10-01,31,cloud computing
-2023-11-01,31,cloud computing
-2023-12-01,31,cloud computing
-2024-01-01,29,cloud computing
-2024-02-01,34,cloud computing
-2024-03-01,40,cloud computing
-2024-04-01,36,cloud computing
-2024-05-01,30,cloud computing
-2024-06-01,33,cloud computing
-2024-07-01,28,cloud computing
-2024-08-01,36,cloud computing
-2024-09-01,37,cloud computing
-2024-10-01,37,cloud computing
-2024-11-01,38,cloud computing
-2024-12-01,31,cloud computing
-2025-01-01,38,cloud computing
-2025-02-01,37,cloud computing
-2025-03-01,39,cloud computing
-2025-04-01,34,cloud computing
-2025-05-01,35,cloud computing
-2025-06-01,40,cloud computing
-2025-07-01,29,cloud computing
-2025-08-01,26,cloud computing
-2025-09-01,30,cloud computing
-2025-10-01,37,cloud computing
-2025-11-01,97,cloud computing
-2025-12-01,100,cloud computing
-2020-01-01,64,serveur
-2020-02-01,72,serveur
-2020-03-01,88,serveur
-2020-04-01,100,serveur
-2020-05-01,86,serveur
-2020-06-01,72,serveur
-2020-07-01,69,serveur
-2020-08-01,68,serveur
-2020-09-01,67,serveur
-2020-10-01,73,serveur
-2020-11-01,72,serveur
-2020-12-01,68,serveur
-2021-01-01,67,serveur
-2021-02-01,80,serveur
-2021-03-01,80,serveur
-2021-04-01,82,serveur
-2021-05-01,70,serveur
-2021-06-01,65,serveur
-2021-07-01,66,serveur
-2021-08-01,66,serveur
-2021-09-01,65,serveur
-2021-10-01,73,serveur
-2021-11-01,68,serveur
-2021-12-01,72,serveur
-2022-01-01,86,serveur
-2022-02-01,93,serveur
-2022-03-01,87,serveur
-2022-04-01,79,serveur
-2022-05-01,80,serveur
-2022-06-01,78,serveur
-2022-07-01,72,serveur
-2022-08-01,75,serveur
-2022-09-01,72,serveur
-2022-10-01,75,serveur
-2022-11-01,79,serveur
-2022-12-01,67,serveur
-2023-01-01,78,serveur
-2023-02-01,77,serveur
-2023-03-01,72,serveur
-2023-04-01,73,serveur
-2023-05-01,68,serveur
-2023-06-01,71,serveur
-2023-07-01,70,serveur
-2023-08-01,68,serveur
-2023-09-01,64,serveur
-2023-10-01,71,serveur
-2023-11-01,70,serveur
-2023-12-01,73,serveur
-2024-01-01,72,serveur
-2024-02-01,76,serveur
-2024-03-01,81,serveur
-2024-04-01,71,serveur
-2024-05-01,68,serveur
-2024-06-01,71,serveur
-2024-07-01,67,serveur
-2024-08-01,65,serveur
-2024-09-01,67,serveur
-2024-10-01,74,serveur
-2024-11-01,67,serveur
-2024-12-01,76,serveur
-2025-01-01,73,serveur
-2025-02-01,86,serveur
-2025-03-01,72,serveur
-2025-04-01,66,serveur
-2025-05-01,68,serveur
-2025-06-01,66,serveur
-2025-07-01,65,serveur
-2025-08-01,65,serveur
-2025-09-01,64,serveur
-2025-10-01,70,serveur
-2025-11-01,71,serveur
-2025-12-01,67,serveur
-2020-01-01,18,gpu
-2020-02-01,18,gpu
-2020-03-01,19,gpu
-2020-04-01,23,gpu
-2020-05-01,23,gpu
-2020-06-01,20,gpu
-2020-07-01,19,gpu
-2020-08-01,19,gpu
-2020-09-01,24,gpu
-2020-10-01,20,gpu
-2020-11-01,25,gpu
-2020-12-01,25,gpu
-2021-01-01,28,gpu
-2021-02-01,26,gpu
-2021-03-01,24,gpu
-2021-04-01,24,gpu
-2021-05-01,21,gpu
-2021-06-01,20,gpu
-2021-07-01,19,gpu
-2021-08-01,20,gpu
-2021-09-01,22,gpu
-2021-10-01,24,gpu
-2021-11-01,25,gpu
-2021-12-01,25,gpu
-2022-01-01,30,gpu
-2022-02-01,31,gpu
-2022-03-01,30,gpu
-2022-04-01,29,gpu
-2022-05-01,25,gpu
-2022-06-01,32,gpu
-2022-07-01,25,gpu
-2022-08-01,24,gpu
-2022-09-01,27,gpu
-2022-10-01,29,gpu
-2022-11-01,33,gpu
-2022-12-01,28,gpu
-2023-01-01,29,gpu
-2023-02-01,33,gpu
-2023-03-01,28,gpu
-2023-04-01,28,gpu
-2023-05-01,28,gpu
-2023-06-01,30,gpu
-2023-07-01,29,gpu
-2023-08-01,32,gpu
-2023-09-01,32,gpu
-2023-10-01,30,gpu
-2023-11-01,36,gpu
-2023-12-01,33,gpu
-2024-01-01,36,gpu
-2024-02-01,38,gpu
-2024-03-01,36,gpu
-2024-04-01,35,gpu
-2024-05-01,32,gpu
-2024-06-01,33,gpu
-2024-07-01,30,gpu
-2024-08-01,34,gpu
-2024-09-01,38,gpu
-2024-10-01,40,gpu
-2024-11-01,43,gpu
-2024-12-01,38,gpu
-2025-01-01,46,gpu
-2025-02-01,46,gpu
-2025-03-01,50,gpu
-2025-04-01,39,gpu
-2025-05-01,38,gpu
-2025-06-01,41,gpu
-2025-07-01,38,gpu
-2025-08-01,41,gpu
-2025-09-01,40,gpu
-2025-10-01,40,gpu
-2025-11-01,100,gpu
-2025-12-01,100,gpu
-2020-01-01,21,nvidia
-2020-02-01,22,nvidia
-2020-03-01,24,nvidia
-2020-04-01,28,nvidia
-2020-05-01,27,nvidia
-2020-06-01,22,nvidia
-2020-07-01,21,nvidia
-2020-08-01,24,nvidia
-2020-09-01,39,nvidia
-2020-10-01,26,nvidia
-2020-11-01,28,nvidia
-2020-12-01,35,nvidia
-2021-01-01,28,nvidia
-2021-02-01,26,nvidia
-2021-03-01,24,nvidia
-2021-04-01,25,nvidia
-2021-05-01,22,nvidia
-2021-06-01,22,nvidia
-2021-07-01,21,nvidia
-2021-08-01,21,nvidia
-2021-09-01,20,nvidia
-2021-10-01,21,nvidia
-2021-11-01,26,nvidia
-2021-12-01,27,nvidia
-2022-01-01,36,nvidia
-2022-02-01,33,nvidia
-2022-03-01,29,nvidia
-2022-04-01,25,nvidia
-2022-05-01,24,nvidia
-2022-06-01,22,nvidia
-2022-07-01,23,nvidia
-2022-08-01,23,nvidia
-2022-09-01,26,nvidia
-2022-10-01,27,nvidia
-2022-11-01,30,nvidia
-2022-12-01,28,nvidia
-2023-01-01,28,nvidia
-2023-02-01,27,nvidia
-2023-03-01,25,nvidia
-2023-04-01,23,nvidia
-2023-05-01,25,nvidia
-2023-06-01,25,nvidia
-2023-07-01,23,nvidia
-2023-08-01,28,nvidia
-2023-09-01,25,nvidia
-2023-10-01,25,nvidia
-2023-11-01,31,nvidia
-2023-12-01,28,nvidia
-2024-01-01,31,nvidia
-2024-02-01,48,nvidia
-2024-03-01,46,nvidia
-2024-04-01,33,nvidia
-2024-05-01,39,nvidia
-2024-06-01,49,nvidia
-2024-07-01,38,nvidia
-2024-08-01,50,nvidia
-2024-09-01,42,nvidia
-2024-10-01,43,nvidia
-2024-11-01,51,nvidia
-2024-12-01,47,nvidia
-2025-01-01,82,nvidia
-2025-02-01,66,nvidia
-2025-03-01,53,nvidia
-2025-04-01,52,nvidia
-2025-05-01,41,nvidia
-2025-06-01,40,nvidia
-2025-07-01,40,nvidia
-2025-08-01,47,nvidia
-2025-09-01,40,nvidia
-2025-10-01,47,nvidia
-2025-11-01,100,nvidia
-2025-12-01,72,nvidia
+2020-01-01,89,big data
+2020-02-01,95,big data
+2020-03-01,80,big data
+2020-04-01,75,big data
+2020-05-01,85,big data
+2020-06-01,75,big data
+2020-07-01,62,big data
+2020-08-01,49,big data
+2020-09-01,100,big data
+2020-10-01,79,big data
+2020-11-01,77,big data
+2020-12-01,64,big data
+2021-01-01,67,big data
+2021-02-01,69,big data
+2021-03-01,73,big data
+2021-04-01,63,big data
+2021-05-01,61,big data
+2021-06-01,55,big data
+2021-07-01,38,big data
+2021-08-01,33,big data
+2021-09-01,73,big data
+2021-10-01,66,big data
+2021-11-01,69,big data
+2021-12-01,54,big data
+2022-01-01,73,big data
+2022-02-01,78,big data
+2022-03-01,87,big data
+2022-04-01,76,big data
+2022-05-01,76,big data
+2022-06-01,63,big data
+2022-07-01,41,big data
+2022-08-01,40,big data
+2022-09-01,96,big data
+2022-10-01,72,big data
+2022-11-01,74,big data
+2022-12-01,54,big data
+2023-01-01,67,big data
+2023-02-01,59,big data
+2023-03-01,62,big data
+2023-04-01,59,big data
+2023-05-01,48,big data
+2023-06-01,43,big data
+2023-07-01,34,big data
+2023-08-01,34,big data
+2023-09-01,78,big data
+2023-10-01,56,big data
+2023-11-01,51,big data
+2023-12-01,43,big data
+2024-01-01,45,big data
+2024-02-01,52,big data
+2024-03-01,49,big data
+2024-04-01,46,big data
+2024-05-01,47,big data
+2024-06-01,45,big data
+2024-07-01,33,big data
+2024-08-01,29,big data
+2024-09-01,54,big data
+2024-10-01,73,big data
+2024-11-01,42,big data
+2024-12-01,40,big data
+2025-01-01,46,big data
+2025-02-01,48,big data
+2025-03-01,41,big data
+2025-04-01,35,big data
+2025-05-01,37,big data
+2025-06-01,40,big data
+2025-07-01,32,big data
+2025-08-01,28,big data
+2025-09-01,55,big data
+2025-10-01,46,big data
+2025-11-01,86,big data
+2025-12-01,99,big data
 2020-01-01,18,bitcoin
 2020-02-01,22,bitcoin
 2020-03-01,40,bitcoin
@@ -1295,78 +359,654 @@
 2025-10-01,44,blockchain
 2025-11-01,73,blockchain
 2025-12-01,77,blockchain
-2020-01-01,92,réalité virtuelle
-2020-02-01,100,réalité virtuelle
-2020-03-01,63,réalité virtuelle
-2020-04-01,58,réalité virtuelle
-2020-05-01,59,réalité virtuelle
-2020-06-01,51,réalité virtuelle
-2020-07-01,53,réalité virtuelle
-2020-08-01,61,réalité virtuelle
-2020-09-01,61,réalité virtuelle
-2020-10-01,63,réalité virtuelle
-2020-11-01,63,réalité virtuelle
-2020-12-01,71,réalité virtuelle
-2021-01-01,51,réalité virtuelle
-2021-02-01,48,réalité virtuelle
-2021-03-01,45,réalité virtuelle
-2021-04-01,45,réalité virtuelle
-2021-05-01,42,réalité virtuelle
-2021-06-01,47,réalité virtuelle
-2021-07-01,53,réalité virtuelle
-2021-08-01,54,réalité virtuelle
-2021-09-01,51,réalité virtuelle
-2021-10-01,68,réalité virtuelle
-2021-11-01,79,réalité virtuelle
-2021-12-01,84,réalité virtuelle
-2022-01-01,79,réalité virtuelle
-2022-02-01,84,réalité virtuelle
-2022-03-01,80,réalité virtuelle
-2022-04-01,75,réalité virtuelle
-2022-05-01,63,réalité virtuelle
-2022-06-01,62,réalité virtuelle
-2022-07-01,53,réalité virtuelle
-2022-08-01,54,réalité virtuelle
-2022-09-01,59,réalité virtuelle
-2022-10-01,75,réalité virtuelle
-2022-11-01,93,réalité virtuelle
-2022-12-01,91,réalité virtuelle
-2023-01-01,74,réalité virtuelle
-2023-02-01,75,réalité virtuelle
-2023-03-01,68,réalité virtuelle
-2023-04-01,68,réalité virtuelle
-2023-05-01,58,réalité virtuelle
-2023-06-01,53,réalité virtuelle
-2023-07-01,52,réalité virtuelle
-2023-08-01,50,réalité virtuelle
-2023-09-01,49,réalité virtuelle
-2023-10-01,68,réalité virtuelle
-2023-11-01,73,réalité virtuelle
-2023-12-01,86,réalité virtuelle
-2024-01-01,62,réalité virtuelle
-2024-02-01,79,réalité virtuelle
-2024-03-01,67,réalité virtuelle
-2024-04-01,64,réalité virtuelle
-2024-05-01,54,réalité virtuelle
-2024-06-01,50,réalité virtuelle
-2024-07-01,49,réalité virtuelle
-2024-08-01,50,réalité virtuelle
-2024-09-01,51,réalité virtuelle
-2024-10-01,72,réalité virtuelle
-2024-11-01,76,réalité virtuelle
-2024-12-01,83,réalité virtuelle
-2025-01-01,59,réalité virtuelle
-2025-02-01,79,réalité virtuelle
-2025-03-01,57,réalité virtuelle
-2025-04-01,59,réalité virtuelle
-2025-05-01,46,réalité virtuelle
-2025-06-01,39,réalité virtuelle
-2025-07-01,41,réalité virtuelle
-2025-08-01,48,réalité virtuelle
-2025-09-01,47,réalité virtuelle
-2025-10-01,59,réalité virtuelle
-2025-11-01,67,réalité virtuelle
-2025-12-01,70,réalité virtuelle
+2020-01-01,0,chatgpt
+2020-02-01,0,chatgpt
+2020-03-01,0,chatgpt
+2020-04-01,0,chatgpt
+2020-05-01,0,chatgpt
+2020-06-01,0,chatgpt
+2020-07-01,0,chatgpt
+2020-08-01,0,chatgpt
+2020-09-01,0,chatgpt
+2020-10-01,0,chatgpt
+2020-11-01,0,chatgpt
+2020-12-01,0,chatgpt
+2021-01-01,0,chatgpt
+2021-02-01,0,chatgpt
+2021-03-01,0,chatgpt
+2021-04-01,0,chatgpt
+2021-05-01,0,chatgpt
+2021-06-01,0,chatgpt
+2021-07-01,0,chatgpt
+2021-08-01,0,chatgpt
+2021-09-01,0,chatgpt
+2021-10-01,0,chatgpt
+2021-11-01,0,chatgpt
+2021-12-01,0,chatgpt
+2022-01-01,0,chatgpt
+2022-02-01,0,chatgpt
+2022-03-01,0,chatgpt
+2022-04-01,0,chatgpt
+2022-05-01,0,chatgpt
+2022-06-01,0,chatgpt
+2022-07-01,0,chatgpt
+2022-08-01,0,chatgpt
+2022-09-01,0,chatgpt
+2022-10-01,0,chatgpt
+2022-11-01,0,chatgpt
+2022-12-01,5,chatgpt
+2023-01-01,18,chatgpt
+2023-02-01,18,chatgpt
+2023-03-01,21,chatgpt
+2023-04-01,24,chatgpt
+2023-05-01,22,chatgpt
+2023-06-01,18,chatgpt
+2023-07-01,14,chatgpt
+2023-08-01,12,chatgpt
+2023-09-01,19,chatgpt
+2023-10-01,23,chatgpt
+2023-11-01,23,chatgpt
+2023-12-01,21,chatgpt
+2024-01-01,21,chatgpt
+2024-02-01,22,chatgpt
+2024-03-01,23,chatgpt
+2024-04-01,21,chatgpt
+2024-05-01,21,chatgpt
+2024-06-01,18,chatgpt
+2024-07-01,13,chatgpt
+2024-08-01,13,chatgpt
+2024-09-01,26,chatgpt
+2024-10-01,37,chatgpt
+2024-11-01,49,chatgpt
+2024-12-01,46,chatgpt
+2025-01-01,49,chatgpt
+2025-02-01,47,chatgpt
+2025-03-01,51,chatgpt
+2025-04-01,58,chatgpt
+2025-05-01,63,chatgpt
+2025-06-01,76,chatgpt
+2025-07-01,67,chatgpt
+2025-08-01,55,chatgpt
+2025-09-01,83,chatgpt
+2025-10-01,84,chatgpt
+2025-11-01,100,chatgpt
+2025-12-01,93,chatgpt
+2020-01-01,32,cloud computing
+2020-02-01,30,cloud computing
+2020-03-01,29,cloud computing
+2020-04-01,29,cloud computing
+2020-05-01,27,cloud computing
+2020-06-01,24,cloud computing
+2020-07-01,19,cloud computing
+2020-08-01,19,cloud computing
+2020-09-01,28,cloud computing
+2020-10-01,27,cloud computing
+2020-11-01,31,cloud computing
+2020-12-01,26,cloud computing
+2021-01-01,29,cloud computing
+2021-02-01,32,cloud computing
+2021-03-01,33,cloud computing
+2021-04-01,24,cloud computing
+2021-05-01,23,cloud computing
+2021-06-01,22,cloud computing
+2021-07-01,19,cloud computing
+2021-08-01,19,cloud computing
+2021-09-01,26,cloud computing
+2021-10-01,25,cloud computing
+2021-11-01,30,cloud computing
+2021-12-01,27,cloud computing
+2022-01-01,33,cloud computing
+2022-02-01,34,cloud computing
+2022-03-01,36,cloud computing
+2022-04-01,32,cloud computing
+2022-05-01,32,cloud computing
+2022-06-01,24,cloud computing
+2022-07-01,22,cloud computing
+2022-08-01,17,cloud computing
+2022-09-01,30,cloud computing
+2022-10-01,30,cloud computing
+2022-11-01,33,cloud computing
+2022-12-01,24,cloud computing
+2023-01-01,36,cloud computing
+2023-02-01,26,cloud computing
+2023-03-01,34,cloud computing
+2023-04-01,27,cloud computing
+2023-05-01,28,cloud computing
+2023-06-01,26,cloud computing
+2023-07-01,22,cloud computing
+2023-08-01,21,cloud computing
+2023-09-01,28,cloud computing
+2023-10-01,31,cloud computing
+2023-11-01,31,cloud computing
+2023-12-01,31,cloud computing
+2024-01-01,29,cloud computing
+2024-02-01,34,cloud computing
+2024-03-01,40,cloud computing
+2024-04-01,36,cloud computing
+2024-05-01,30,cloud computing
+2024-06-01,33,cloud computing
+2024-07-01,28,cloud computing
+2024-08-01,36,cloud computing
+2024-09-01,37,cloud computing
+2024-10-01,37,cloud computing
+2024-11-01,38,cloud computing
+2024-12-01,31,cloud computing
+2025-01-01,38,cloud computing
+2025-02-01,37,cloud computing
+2025-03-01,39,cloud computing
+2025-04-01,34,cloud computing
+2025-05-01,35,cloud computing
+2025-06-01,40,cloud computing
+2025-07-01,29,cloud computing
+2025-08-01,26,cloud computing
+2025-09-01,30,cloud computing
+2025-10-01,37,cloud computing
+2025-11-01,97,cloud computing
+2025-12-01,100,cloud computing
+2020-01-01,8,cybersécurité
+2020-02-01,7,cybersécurité
+2020-03-01,6,cybersécurité
+2020-04-01,5,cybersécurité
+2020-05-01,5,cybersécurité
+2020-06-01,6,cybersécurité
+2020-07-01,6,cybersécurité
+2020-08-01,5,cybersécurité
+2020-09-01,7,cybersécurité
+2020-10-01,8,cybersécurité
+2020-11-01,8,cybersécurité
+2020-12-01,7,cybersécurité
+2021-01-01,8,cybersécurité
+2021-02-01,10,cybersécurité
+2021-03-01,10,cybersécurité
+2021-04-01,8,cybersécurité
+2021-05-01,8,cybersécurité
+2021-06-01,9,cybersécurité
+2021-07-01,9,cybersécurité
+2021-08-01,7,cybersécurité
+2021-09-01,11,cybersécurité
+2021-10-01,10,cybersécurité
+2021-11-01,11,cybersécurité
+2021-12-01,10,cybersécurité
+2022-01-01,14,cybersécurité
+2022-02-01,15,cybersécurité
+2022-03-01,18,cybersécurité
+2022-04-01,14,cybersécurité
+2022-05-01,15,cybersécurité
+2022-06-01,15,cybersécurité
+2022-07-01,11,cybersécurité
+2022-08-01,10,cybersécurité
+2022-09-01,15,cybersécurité
+2022-10-01,17,cybersécurité
+2022-11-01,16,cybersécurité
+2022-12-01,13,cybersécurité
+2023-01-01,18,cybersécurité
+2023-02-01,18,cybersécurité
+2023-03-01,21,cybersécurité
+2023-04-01,18,cybersécurité
+2023-05-01,17,cybersécurité
+2023-06-01,19,cybersécurité
+2023-07-01,15,cybersécurité
+2023-08-01,13,cybersécurité
+2023-09-01,20,cybersécurité
+2023-10-01,22,cybersécurité
+2023-11-01,21,cybersécurité
+2023-12-01,18,cybersécurité
+2024-01-01,21,cybersécurité
+2024-02-01,25,cybersécurité
+2024-03-01,24,cybersécurité
+2024-04-01,22,cybersécurité
+2024-05-01,21,cybersécurité
+2024-06-01,21,cybersécurité
+2024-07-01,17,cybersécurité
+2024-08-01,14,cybersécurité
+2024-09-01,25,cybersécurité
+2024-10-01,24,cybersécurité
+2024-11-01,21,cybersécurité
+2024-12-01,18,cybersécurité
+2025-01-01,23,cybersécurité
+2025-02-01,100,cybersécurité
+2025-03-01,93,cybersécurité
+2025-04-01,85,cybersécurité
+2025-05-01,19,cybersécurité
+2025-06-01,21,cybersécurité
+2025-07-01,17,cybersécurité
+2025-08-01,13,cybersécurité
+2025-09-01,22,cybersécurité
+2025-10-01,21,cybersécurité
+2025-11-01,21,cybersécurité
+2025-12-01,19,cybersécurité
+2020-01-01,28,data science
+2020-02-01,27,data science
+2020-03-01,23,data science
+2020-04-01,26,data science
+2020-05-01,23,data science
+2020-06-01,29,data science
+2020-07-01,25,data science
+2020-08-01,23,data science
+2020-09-01,31,data science
+2020-10-01,26,data science
+2020-11-01,22,data science
+2020-12-01,22,data science
+2021-01-01,26,data science
+2021-02-01,27,data science
+2021-03-01,24,data science
+2021-04-01,23,data science
+2021-05-01,23,data science
+2021-06-01,23,data science
+2021-07-01,21,data science
+2021-08-01,19,data science
+2021-09-01,27,data science
+2021-10-01,26,data science
+2021-11-01,25,data science
+2021-12-01,25,data science
+2022-01-01,30,data science
+2022-02-01,33,data science
+2022-03-01,37,data science
+2022-04-01,32,data science
+2022-05-01,31,data science
+2022-06-01,33,data science
+2022-07-01,24,data science
+2022-08-01,24,data science
+2022-09-01,30,data science
+2022-10-01,31,data science
+2022-11-01,33,data science
+2022-12-01,25,data science
+2023-01-01,32,data science
+2023-02-01,32,data science
+2023-03-01,30,data science
+2023-04-01,30,data science
+2023-05-01,26,data science
+2023-06-01,28,data science
+2023-07-01,24,data science
+2023-08-01,22,data science
+2023-09-01,29,data science
+2023-10-01,30,data science
+2023-11-01,31,data science
+2023-12-01,24,data science
+2024-01-01,30,data science
+2024-02-01,32,data science
+2024-03-01,34,data science
+2024-04-01,26,data science
+2024-05-01,27,data science
+2024-06-01,29,data science
+2024-07-01,23,data science
+2024-08-01,22,data science
+2024-09-01,28,data science
+2024-10-01,33,data science
+2024-11-01,32,data science
+2024-12-01,25,data science
+2025-01-01,30,data science
+2025-02-01,31,data science
+2025-03-01,33,data science
+2025-04-01,28,data science
+2025-05-01,25,data science
+2025-06-01,29,data science
+2025-07-01,24,data science
+2025-08-01,23,data science
+2025-09-01,27,data science
+2025-10-01,27,data science
+2025-11-01,90,data science
+2025-12-01,100,data science
+2020-01-01,37,deep learning
+2020-02-01,39,deep learning
+2020-03-01,33,deep learning
+2020-04-01,34,deep learning
+2020-05-01,33,deep learning
+2020-06-01,38,deep learning
+2020-07-01,34,deep learning
+2020-08-01,28,deep learning
+2020-09-01,34,deep learning
+2020-10-01,30,deep learning
+2020-11-01,32,deep learning
+2020-12-01,29,deep learning
+2021-01-01,31,deep learning
+2021-02-01,33,deep learning
+2021-03-01,34,deep learning
+2021-04-01,30,deep learning
+2021-05-01,31,deep learning
+2021-06-01,27,deep learning
+2021-07-01,22,deep learning
+2021-08-01,21,deep learning
+2021-09-01,29,deep learning
+2021-10-01,32,deep learning
+2021-11-01,35,deep learning
+2021-12-01,30,deep learning
+2022-01-01,41,deep learning
+2022-02-01,46,deep learning
+2022-03-01,49,deep learning
+2022-04-01,44,deep learning
+2022-05-01,47,deep learning
+2022-06-01,41,deep learning
+2022-07-01,33,deep learning
+2022-08-01,28,deep learning
+2022-09-01,34,deep learning
+2022-10-01,39,deep learning
+2022-11-01,40,deep learning
+2022-12-01,34,deep learning
+2023-01-01,45,deep learning
+2023-02-01,42,deep learning
+2023-03-01,44,deep learning
+2023-04-01,41,deep learning
+2023-05-01,39,deep learning
+2023-06-01,34,deep learning
+2023-07-01,32,deep learning
+2023-08-01,27,deep learning
+2023-09-01,33,deep learning
+2023-10-01,40,deep learning
+2023-11-01,40,deep learning
+2023-12-01,36,deep learning
+2024-01-01,41,deep learning
+2024-02-01,45,deep learning
+2024-03-01,47,deep learning
+2024-04-01,41,deep learning
+2024-05-01,38,deep learning
+2024-06-01,38,deep learning
+2024-07-01,33,deep learning
+2024-08-01,27,deep learning
+2024-09-01,33,deep learning
+2024-10-01,39,deep learning
+2024-11-01,38,deep learning
+2024-12-01,32,deep learning
+2025-01-01,38,deep learning
+2025-02-01,45,deep learning
+2025-03-01,41,deep learning
+2025-04-01,37,deep learning
+2025-05-01,32,deep learning
+2025-06-01,39,deep learning
+2025-07-01,32,deep learning
+2025-08-01,26,deep learning
+2025-09-01,32,deep learning
+2025-10-01,38,deep learning
+2025-11-01,90,deep learning
+2025-12-01,100,deep learning
+2020-01-01,18,gpu
+2020-02-01,18,gpu
+2020-03-01,19,gpu
+2020-04-01,23,gpu
+2020-05-01,23,gpu
+2020-06-01,20,gpu
+2020-07-01,19,gpu
+2020-08-01,19,gpu
+2020-09-01,24,gpu
+2020-10-01,20,gpu
+2020-11-01,25,gpu
+2020-12-01,25,gpu
+2021-01-01,28,gpu
+2021-02-01,26,gpu
+2021-03-01,24,gpu
+2021-04-01,24,gpu
+2021-05-01,21,gpu
+2021-06-01,20,gpu
+2021-07-01,19,gpu
+2021-08-01,20,gpu
+2021-09-01,22,gpu
+2021-10-01,24,gpu
+2021-11-01,25,gpu
+2021-12-01,25,gpu
+2022-01-01,30,gpu
+2022-02-01,31,gpu
+2022-03-01,30,gpu
+2022-04-01,29,gpu
+2022-05-01,25,gpu
+2022-06-01,32,gpu
+2022-07-01,25,gpu
+2022-08-01,24,gpu
+2022-09-01,27,gpu
+2022-10-01,29,gpu
+2022-11-01,33,gpu
+2022-12-01,28,gpu
+2023-01-01,29,gpu
+2023-02-01,33,gpu
+2023-03-01,28,gpu
+2023-04-01,28,gpu
+2023-05-01,28,gpu
+2023-06-01,30,gpu
+2023-07-01,29,gpu
+2023-08-01,32,gpu
+2023-09-01,32,gpu
+2023-10-01,30,gpu
+2023-11-01,36,gpu
+2023-12-01,33,gpu
+2024-01-01,36,gpu
+2024-02-01,38,gpu
+2024-03-01,36,gpu
+2024-04-01,35,gpu
+2024-05-01,32,gpu
+2024-06-01,33,gpu
+2024-07-01,30,gpu
+2024-08-01,34,gpu
+2024-09-01,38,gpu
+2024-10-01,40,gpu
+2024-11-01,43,gpu
+2024-12-01,38,gpu
+2025-01-01,46,gpu
+2025-02-01,46,gpu
+2025-03-01,50,gpu
+2025-04-01,39,gpu
+2025-05-01,38,gpu
+2025-06-01,41,gpu
+2025-07-01,38,gpu
+2025-08-01,41,gpu
+2025-09-01,40,gpu
+2025-10-01,40,gpu
+2025-11-01,100,gpu
+2025-12-01,100,gpu
+2020-01-01,4,ia
+2020-02-01,4,ia
+2020-03-01,6,ia
+2020-04-01,5,ia
+2020-05-01,5,ia
+2020-06-01,5,ia
+2020-07-01,3,ia
+2020-08-01,3,ia
+2020-09-01,5,ia
+2020-10-01,4,ia
+2020-11-01,4,ia
+2020-12-01,4,ia
+2021-01-01,4,ia
+2021-02-01,4,ia
+2021-03-01,4,ia
+2021-04-01,4,ia
+2021-05-01,4,ia
+2021-06-01,4,ia
+2021-07-01,3,ia
+2021-08-01,3,ia
+2021-09-01,4,ia
+2021-10-01,4,ia
+2021-11-01,4,ia
+2021-12-01,4,ia
+2022-01-01,5,ia
+2022-02-01,5,ia
+2022-03-01,5,ia
+2022-04-01,5,ia
+2022-05-01,5,ia
+2022-06-01,6,ia
+2022-07-01,4,ia
+2022-08-01,4,ia
+2022-09-01,6,ia
+2022-10-01,6,ia
+2022-11-01,8,ia
+2022-12-01,12,ia
+2023-01-01,16,ia
+2023-02-01,15,ia
+2023-03-01,18,ia
+2023-04-01,21,ia
+2023-05-01,24,ia
+2023-06-01,21,ia
+2023-07-01,18,ia
+2023-08-01,19,ia
+2023-09-01,24,ia
+2023-10-01,30,ia
+2023-11-01,32,ia
+2023-12-01,36,ia
+2024-01-01,34,ia
+2024-02-01,38,ia
+2024-03-01,42,ia
+2024-04-01,42,ia
+2024-05-01,42,ia
+2024-06-01,41,ia
+2024-07-01,34,ia
+2024-08-01,35,ia
+2024-09-01,50,ia
+2024-10-01,56,ia
+2024-11-01,62,ia
+2024-12-01,63,ia
+2025-01-01,74,ia
+2025-02-01,100,ia
+2025-03-01,84,ia
+2025-04-01,93,ia
+2025-05-01,81,ia
+2025-06-01,75,ia
+2025-07-01,62,ia
+2025-08-01,59,ia
+2025-09-01,76,ia
+2025-10-01,86,ia
+2025-11-01,92,ia
+2025-12-01,90,ia
+2020-01-01,14,intelligence artificielle
+2020-02-01,14,intelligence artificielle
+2020-03-01,12,intelligence artificielle
+2020-04-01,13,intelligence artificielle
+2020-05-01,11,intelligence artificielle
+2020-06-01,9,intelligence artificielle
+2020-07-01,7,intelligence artificielle
+2020-08-01,7,intelligence artificielle
+2020-09-01,11,intelligence artificielle
+2020-10-01,12,intelligence artificielle
+2020-11-01,14,intelligence artificielle
+2020-12-01,12,intelligence artificielle
+2021-01-01,14,intelligence artificielle
+2021-02-01,13,intelligence artificielle
+2021-03-01,14,intelligence artificielle
+2021-04-01,12,intelligence artificielle
+2021-05-01,13,intelligence artificielle
+2021-06-01,10,intelligence artificielle
+2021-07-01,6,intelligence artificielle
+2021-08-01,7,intelligence artificielle
+2021-09-01,10,intelligence artificielle
+2021-10-01,13,intelligence artificielle
+2021-11-01,14,intelligence artificielle
+2021-12-01,13,intelligence artificielle
+2022-01-01,17,intelligence artificielle
+2022-02-01,15,intelligence artificielle
+2022-03-01,21,intelligence artificielle
+2022-04-01,17,intelligence artificielle
+2022-05-01,14,intelligence artificielle
+2022-06-01,13,intelligence artificielle
+2022-07-01,9,intelligence artificielle
+2022-08-01,9,intelligence artificielle
+2022-09-01,13,intelligence artificielle
+2022-10-01,14,intelligence artificielle
+2022-11-01,18,intelligence artificielle
+2022-12-01,23,intelligence artificielle
+2023-01-01,45,intelligence artificielle
+2023-02-01,37,intelligence artificielle
+2023-03-01,43,intelligence artificielle
+2023-04-01,55,intelligence artificielle
+2023-05-01,50,intelligence artificielle
+2023-06-01,39,intelligence artificielle
+2023-07-01,24,intelligence artificielle
+2023-08-01,24,intelligence artificielle
+2023-09-01,34,intelligence artificielle
+2023-10-01,36,intelligence artificielle
+2023-11-01,41,intelligence artificielle
+2023-12-01,39,intelligence artificielle
+2024-01-01,41,intelligence artificielle
+2024-02-01,39,intelligence artificielle
+2024-03-01,44,intelligence artificielle
+2024-04-01,37,intelligence artificielle
+2024-05-01,37,intelligence artificielle
+2024-06-01,38,intelligence artificielle
+2024-07-01,27,intelligence artificielle
+2024-08-01,23,intelligence artificielle
+2024-09-01,31,intelligence artificielle
+2024-10-01,39,intelligence artificielle
+2024-11-01,39,intelligence artificielle
+2024-12-01,43,intelligence artificielle
+2025-01-01,58,intelligence artificielle
+2025-02-01,100,intelligence artificielle
+2025-03-01,74,intelligence artificielle
+2025-04-01,62,intelligence artificielle
+2025-05-01,35,intelligence artificielle
+2025-06-01,36,intelligence artificielle
+2025-07-01,28,intelligence artificielle
+2025-08-01,27,intelligence artificielle
+2025-09-01,32,intelligence artificielle
+2025-10-01,35,intelligence artificielle
+2025-11-01,34,intelligence artificielle
+2025-12-01,33,intelligence artificielle
+2020-01-01,34,machine learning
+2020-02-01,36,machine learning
+2020-03-01,31,machine learning
+2020-04-01,35,machine learning
+2020-05-01,33,machine learning
+2020-06-01,33,machine learning
+2020-07-01,29,machine learning
+2020-08-01,26,machine learning
+2020-09-01,34,machine learning
+2020-10-01,31,machine learning
+2020-11-01,30,machine learning
+2020-12-01,28,machine learning
+2021-01-01,33,machine learning
+2021-02-01,33,machine learning
+2021-03-01,35,machine learning
+2021-04-01,31,machine learning
+2021-05-01,28,machine learning
+2021-06-01,27,machine learning
+2021-07-01,22,machine learning
+2021-08-01,19,machine learning
+2021-09-01,29,machine learning
+2021-10-01,30,machine learning
+2021-11-01,35,machine learning
+2021-12-01,30,machine learning
+2022-01-01,39,machine learning
+2022-02-01,45,machine learning
+2022-03-01,52,machine learning
+2022-04-01,44,machine learning
+2022-05-01,44,machine learning
+2022-06-01,42,machine learning
+2022-07-01,32,machine learning
+2022-08-01,29,machine learning
+2022-09-01,37,machine learning
+2022-10-01,42,machine learning
+2022-11-01,43,machine learning
+2022-12-01,35,machine learning
+2023-01-01,44,machine learning
+2023-02-01,42,machine learning
+2023-03-01,42,machine learning
+2023-04-01,40,machine learning
+2023-05-01,38,machine learning
+2023-06-01,37,machine learning
+2023-07-01,31,machine learning
+2023-08-01,29,machine learning
+2023-09-01,36,machine learning
+2023-10-01,39,machine learning
+2023-11-01,41,machine learning
+2023-12-01,34,machine learning
+2024-01-01,39,machine learning
+2024-02-01,49,machine learning
+2024-03-01,43,machine learning
+2024-04-01,41,machine learning
+2024-05-01,37,machine learning
+2024-06-01,40,machine learning
+2024-07-01,35,machine learning
+2024-08-01,27,machine learning
+2024-09-01,37,machine learning
+2024-10-01,44,machine learning
+2024-11-01,40,machine learning
+2024-12-01,35,machine learning
+2025-01-01,42,machine learning
+2025-02-01,45,machine learning
+2025-03-01,42,machine learning
+2025-04-01,36,machine learning
+2025-05-01,32,machine learning
+2025-06-01,43,machine learning
+2025-07-01,35,machine learning
+2025-08-01,29,machine learning
+2025-09-01,34,machine learning
+2025-10-01,37,machine learning
+2025-11-01,96,machine learning
+2025-12-01,100,machine learning
 2020-01-01,0,metaverse
 2020-02-01,0,metaverse
 2020-03-01,0,metaverse
@@ -1439,3 +1079,363 @@
 2025-10-01,3,metaverse
 2025-11-01,4,metaverse
 2025-12-01,6,metaverse
+2020-01-01,21,nvidia
+2020-02-01,22,nvidia
+2020-03-01,24,nvidia
+2020-04-01,28,nvidia
+2020-05-01,27,nvidia
+2020-06-01,22,nvidia
+2020-07-01,21,nvidia
+2020-08-01,24,nvidia
+2020-09-01,39,nvidia
+2020-10-01,26,nvidia
+2020-11-01,28,nvidia
+2020-12-01,35,nvidia
+2021-01-01,28,nvidia
+2021-02-01,26,nvidia
+2021-03-01,24,nvidia
+2021-04-01,25,nvidia
+2021-05-01,22,nvidia
+2021-06-01,22,nvidia
+2021-07-01,21,nvidia
+2021-08-01,21,nvidia
+2021-09-01,20,nvidia
+2021-10-01,21,nvidia
+2021-11-01,26,nvidia
+2021-12-01,27,nvidia
+2022-01-01,36,nvidia
+2022-02-01,33,nvidia
+2022-03-01,29,nvidia
+2022-04-01,25,nvidia
+2022-05-01,24,nvidia
+2022-06-01,22,nvidia
+2022-07-01,23,nvidia
+2022-08-01,23,nvidia
+2022-09-01,26,nvidia
+2022-10-01,27,nvidia
+2022-11-01,30,nvidia
+2022-12-01,28,nvidia
+2023-01-01,28,nvidia
+2023-02-01,27,nvidia
+2023-03-01,25,nvidia
+2023-04-01,23,nvidia
+2023-05-01,25,nvidia
+2023-06-01,25,nvidia
+2023-07-01,23,nvidia
+2023-08-01,28,nvidia
+2023-09-01,25,nvidia
+2023-10-01,25,nvidia
+2023-11-01,31,nvidia
+2023-12-01,28,nvidia
+2024-01-01,31,nvidia
+2024-02-01,48,nvidia
+2024-03-01,46,nvidia
+2024-04-01,33,nvidia
+2024-05-01,39,nvidia
+2024-06-01,49,nvidia
+2024-07-01,38,nvidia
+2024-08-01,50,nvidia
+2024-09-01,42,nvidia
+2024-10-01,43,nvidia
+2024-11-01,51,nvidia
+2024-12-01,47,nvidia
+2025-01-01,82,nvidia
+2025-02-01,66,nvidia
+2025-03-01,53,nvidia
+2025-04-01,52,nvidia
+2025-05-01,41,nvidia
+2025-06-01,40,nvidia
+2025-07-01,40,nvidia
+2025-08-01,47,nvidia
+2025-09-01,40,nvidia
+2025-10-01,47,nvidia
+2025-11-01,100,nvidia
+2025-12-01,72,nvidia
+2020-01-01,0,openai
+2020-02-01,0,openai
+2020-03-01,0,openai
+2020-04-01,0,openai
+2020-05-01,0,openai
+2020-06-01,0,openai
+2020-07-01,0,openai
+2020-08-01,0,openai
+2020-09-01,0,openai
+2020-10-01,0,openai
+2020-11-01,0,openai
+2020-12-01,0,openai
+2021-01-01,0,openai
+2021-02-01,0,openai
+2021-03-01,0,openai
+2021-04-01,0,openai
+2021-05-01,0,openai
+2021-06-01,0,openai
+2021-07-01,0,openai
+2021-08-01,0,openai
+2021-09-01,0,openai
+2021-10-01,0,openai
+2021-11-01,0,openai
+2021-12-01,0,openai
+2022-01-01,1,openai
+2022-02-01,0,openai
+2022-03-01,0,openai
+2022-04-01,1,openai
+2022-05-01,1,openai
+2022-06-01,1,openai
+2022-07-01,1,openai
+2022-08-01,1,openai
+2022-09-01,1,openai
+2022-10-01,2,openai
+2022-11-01,2,openai
+2022-12-01,29,openai
+2023-01-01,55,openai
+2023-02-01,37,openai
+2023-03-01,40,openai
+2023-04-01,38,openai
+2023-05-01,34,openai
+2023-06-01,24,openai
+2023-07-01,16,openai
+2023-08-01,13,openai
+2023-09-01,17,openai
+2023-10-01,18,openai
+2023-11-01,29,openai
+2023-12-01,18,openai
+2024-01-01,19,openai
+2024-02-01,29,openai
+2024-03-01,20,openai
+2024-04-01,17,openai
+2024-05-01,20,openai
+2024-06-01,22,openai
+2024-07-01,16,openai
+2024-08-01,15,openai
+2024-09-01,22,openai
+2024-10-01,24,openai
+2024-11-01,22,openai
+2024-12-01,24,openai
+2025-01-01,29,openai
+2025-02-01,31,openai
+2025-03-01,27,openai
+2025-04-01,31,openai
+2025-05-01,26,openai
+2025-06-01,29,openai
+2025-07-01,23,openai
+2025-08-01,26,openai
+2025-09-01,28,openai
+2025-10-01,37,openai
+2025-11-01,100,openai
+2025-12-01,84,openai
+2020-01-01,62,robot
+2020-02-01,52,robot
+2020-03-01,53,robot
+2020-04-01,92,robot
+2020-05-01,95,robot
+2020-06-01,71,robot
+2020-07-01,57,robot
+2020-08-01,53,robot
+2020-09-01,54,robot
+2020-10-01,68,robot
+2020-11-01,97,robot
+2020-12-01,97,robot
+2021-01-01,75,robot
+2021-02-01,73,robot
+2021-03-01,74,robot
+2021-04-01,71,robot
+2021-05-01,74,robot
+2021-06-01,62,robot
+2021-07-01,55,robot
+2021-08-01,57,robot
+2021-09-01,58,robot
+2021-10-01,61,robot
+2021-11-01,84,robot
+2021-12-01,76,robot
+2022-01-01,73,robot
+2022-02-01,59,robot
+2022-03-01,65,robot
+2022-04-01,66,robot
+2022-05-01,71,robot
+2022-06-01,59,robot
+2022-07-01,56,robot
+2022-08-01,52,robot
+2022-09-01,49,robot
+2022-10-01,61,robot
+2022-11-01,77,robot
+2022-12-01,65,robot
+2023-01-01,62,robot
+2023-02-01,52,robot
+2023-03-01,58,robot
+2023-04-01,74,robot
+2023-05-01,78,robot
+2023-06-01,60,robot
+2023-07-01,56,robot
+2023-08-01,52,robot
+2023-09-01,51,robot
+2023-10-01,52,robot
+2023-11-01,74,robot
+2023-12-01,71,robot
+2024-01-01,59,robot
+2024-02-01,54,robot
+2024-03-01,61,robot
+2024-04-01,67,robot
+2024-05-01,69,robot
+2024-06-01,62,robot
+2024-07-01,61,robot
+2024-08-01,56,robot
+2024-09-01,55,robot
+2024-10-01,87,robot
+2024-11-01,88,robot
+2024-12-01,78,robot
+2025-01-01,64,robot
+2025-02-01,62,robot
+2025-03-01,73,robot
+2025-04-01,86,robot
+2025-05-01,88,robot
+2025-06-01,75,robot
+2025-07-01,63,robot
+2025-08-01,66,robot
+2025-09-01,61,robot
+2025-10-01,63,robot
+2025-11-01,100,robot
+2025-12-01,82,robot
+2020-01-01,92,réalité virtuelle
+2020-02-01,100,réalité virtuelle
+2020-03-01,63,réalité virtuelle
+2020-04-01,58,réalité virtuelle
+2020-05-01,59,réalité virtuelle
+2020-06-01,51,réalité virtuelle
+2020-07-01,53,réalité virtuelle
+2020-08-01,61,réalité virtuelle
+2020-09-01,61,réalité virtuelle
+2020-10-01,63,réalité virtuelle
+2020-11-01,63,réalité virtuelle
+2020-12-01,71,réalité virtuelle
+2021-01-01,51,réalité virtuelle
+2021-02-01,48,réalité virtuelle
+2021-03-01,45,réalité virtuelle
+2021-04-01,45,réalité virtuelle
+2021-05-01,42,réalité virtuelle
+2021-06-01,47,réalité virtuelle
+2021-07-01,53,réalité virtuelle
+2021-08-01,54,réalité virtuelle
+2021-09-01,51,réalité virtuelle
+2021-10-01,68,réalité virtuelle
+2021-11-01,79,réalité virtuelle
+2021-12-01,84,réalité virtuelle
+2022-01-01,79,réalité virtuelle
+2022-02-01,84,réalité virtuelle
+2022-03-01,80,réalité virtuelle
+2022-04-01,75,réalité virtuelle
+2022-05-01,63,réalité virtuelle
+2022-06-01,62,réalité virtuelle
+2022-07-01,53,réalité virtuelle
+2022-08-01,54,réalité virtuelle
+2022-09-01,59,réalité virtuelle
+2022-10-01,75,réalité virtuelle
+2022-11-01,93,réalité virtuelle
+2022-12-01,91,réalité virtuelle
+2023-01-01,74,réalité virtuelle
+2023-02-01,75,réalité virtuelle
+2023-03-01,68,réalité virtuelle
+2023-04-01,68,réalité virtuelle
+2023-05-01,58,réalité virtuelle
+2023-06-01,53,réalité virtuelle
+2023-07-01,52,réalité virtuelle
+2023-08-01,50,réalité virtuelle
+2023-09-01,49,réalité virtuelle
+2023-10-01,68,réalité virtuelle
+2023-11-01,73,réalité virtuelle
+2023-12-01,86,réalité virtuelle
+2024-01-01,62,réalité virtuelle
+2024-02-01,79,réalité virtuelle
+2024-03-01,67,réalité virtuelle
+2024-04-01,64,réalité virtuelle
+2024-05-01,54,réalité virtuelle
+2024-06-01,50,réalité virtuelle
+2024-07-01,49,réalité virtuelle
+2024-08-01,50,réalité virtuelle
+2024-09-01,51,réalité virtuelle
+2024-10-01,72,réalité virtuelle
+2024-11-01,76,réalité virtuelle
+2024-12-01,83,réalité virtuelle
+2025-01-01,59,réalité virtuelle
+2025-02-01,79,réalité virtuelle
+2025-03-01,57,réalité virtuelle
+2025-04-01,59,réalité virtuelle
+2025-05-01,46,réalité virtuelle
+2025-06-01,39,réalité virtuelle
+2025-07-01,41,réalité virtuelle
+2025-08-01,48,réalité virtuelle
+2025-09-01,47,réalité virtuelle
+2025-10-01,59,réalité virtuelle
+2025-11-01,67,réalité virtuelle
+2025-12-01,70,réalité virtuelle
+2020-01-01,64,serveur
+2020-02-01,72,serveur
+2020-03-01,88,serveur
+2020-04-01,100,serveur
+2020-05-01,86,serveur
+2020-06-01,72,serveur
+2020-07-01,69,serveur
+2020-08-01,68,serveur
+2020-09-01,67,serveur
+2020-10-01,73,serveur
+2020-11-01,72,serveur
+2020-12-01,68,serveur
+2021-01-01,67,serveur
+2021-02-01,80,serveur
+2021-03-01,80,serveur
+2021-04-01,82,serveur
+2021-05-01,70,serveur
+2021-06-01,65,serveur
+2021-07-01,66,serveur
+2021-08-01,66,serveur
+2021-09-01,65,serveur
+2021-10-01,73,serveur
+2021-11-01,68,serveur
+2021-12-01,72,serveur
+2022-01-01,86,serveur
+2022-02-01,93,serveur
+2022-03-01,87,serveur
+2022-04-01,79,serveur
+2022-05-01,80,serveur
+2022-06-01,78,serveur
+2022-07-01,72,serveur
+2022-08-01,75,serveur
+2022-09-01,72,serveur
+2022-10-01,75,serveur
+2022-11-01,79,serveur
+2022-12-01,67,serveur
+2023-01-01,78,serveur
+2023-02-01,77,serveur
+2023-03-01,72,serveur
+2023-04-01,73,serveur
+2023-05-01,68,serveur
+2023-06-01,71,serveur
+2023-07-01,70,serveur
+2023-08-01,68,serveur
+2023-09-01,64,serveur
+2023-10-01,71,serveur
+2023-11-01,70,serveur
+2023-12-01,73,serveur
+2024-01-01,72,serveur
+2024-02-01,76,serveur
+2024-03-01,81,serveur
+2024-04-01,71,serveur
+2024-05-01,68,serveur
+2024-06-01,71,serveur
+2024-07-01,67,serveur
+2024-08-01,65,serveur
+2024-09-01,67,serveur
+2024-10-01,74,serveur
+2024-11-01,67,serveur
+2024-12-01,76,serveur
+2025-01-01,73,serveur
+2025-02-01,86,serveur
+2025-03-01,72,serveur
+2025-04-01,66,serveur
+2025-05-01,68,serveur
+2025-06-01,66,serveur
+2025-07-01,65,serveur
+2025-08-01,65,serveur
+2025-09-01,64,serveur
+2025-10-01,70,serveur
+2025-11-01,71,serveur
+2025-12-01,67,serveur
