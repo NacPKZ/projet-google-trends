@@ -20,22 +20,25 @@ L’objectif est de construire une base de données propre, puis d’explorer le
 ---
 
 ## 🗂️ Structure du projet
-projet_google_trends/
-                         project_root
-                              │
-        ┌───────────────┬─────┼─────┬───────────────┬───────────────┐
-        │               │     │     │               │               │
-      data           figures notebook           docs            src
-        │                     │
-   ┌────┴────┐               └── projet_google_trends.ipynb
-   │         │
-  raw    processed
-
-                              │
-                          README.md
+projet_google_trends/              
 
 
----
+project_root/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── figures/
+│
+├── notebook/
+│   └── projet_google_trends.ipynb
+│
+├── docs/
+│
+├── src/
+│
+└── README.md
 
 ## 🛠️ Technologies utilisées
 
