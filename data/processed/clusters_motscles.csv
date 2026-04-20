@@ -1,21 +1,21 @@
 ﻿mot_cle,cluster
-openai,0
-metaverse,0
-intelligence artificielle,0
-chatgpt,0
-ia,0
-cybersécurité,0
-algorithme,1
-robot,1
-réalité virtuelle,1
-serveur,1
-blockchain,1
-big data,1
-automatisation,1
-gpu,2
-cloud computing,2
-machine learning,2
-bitcoin,2
-nvidia,2
-data science,2
-deep learning,2
+algorithme,0
+robot,0
+réalité virtuelle,0
+blockchain,0
+serveur,0
+big data,0
+automatisation,0
+cloud computing,1
+data science,1
+gpu,1
+machine learning,1
+metaverse,1
+nvidia,1
+bitcoin,1
+deep learning,1
+chatgpt,2
+cybersécurité,2
+ia,2
+intelligence artificielle,2
+openai,2
